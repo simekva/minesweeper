@@ -1,9 +1,0 @@
-minesweeper\Board.class
-module-info.class
-minesweeper\minesweeperController$2.class
-minesweeper\minesweeperController.class
-minesweeper\SaveAndLoadInterface.class
-minesweeper\minesweeperApp.class
-minesweeper\Tile.class
-minesweeper\FileHandler.class
-minesweeper\minesweeperController$1.class
