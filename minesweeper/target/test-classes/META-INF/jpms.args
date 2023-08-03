@@ -1,0 +1,4 @@
+--patch-module
+minesweeper=_
+--add-reads
+minesweeper=ALL-UNNAMED
